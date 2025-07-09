@@ -1,0 +1,15 @@
+# Ignore build artifacts
+/build/
+/bin/
+/lib/
+
+# Visual Studio files
+*.sln
+*.vcxproj*
+*.user
+*.pdb
+*.ilk
+*.obj
+*.exe
+*.log
+.vs/
